@@ -1,5 +1,6 @@
 # Hi there, I'm [@dhmsAdhty](https://github.com/dhmsAdhty) 👋
-![Visitor Badge](https://img.shields.io/badge/Visitor%20Count-1-blue)
+
+![Programmer Animated Badge](https://img.shields.io/badge/Programming-%E2%9C%94-green?style=for-the-badge&logo=python&logoColor=white)
 
 ### I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
 
@@ -34,4 +35,3 @@ I absolutely **love experimenting with new technologies**, whether it’s a new 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhmsAdhty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhmsAdhty&layout=compact&theme=radical)
-
