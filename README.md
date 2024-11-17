@@ -1,8 +1,4 @@
-# Hi there, I'm [@dhmsAdhty](https://github.com/dhmsAdhty) 👋
-
 I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
-
----
 
 ### 🔍 About Me
 
