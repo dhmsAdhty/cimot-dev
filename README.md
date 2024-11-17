@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhmsAdhty
 - 👀 I’m interested in **web development and UI/UX design**
-- 🌱 I’m currently learning **Laravel**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I love experimenting with new technologies and building cool projects!**
 
