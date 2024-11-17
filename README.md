@@ -10,15 +10,7 @@ I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
 
 ---
 
-### 🚀 Fun Fact
-
-I absolutely **love experimenting with new technologies**, whether it’s a new framework or an innovative tool. My goal is to **build cool and impactful projects** that make a difference!
-
----
-
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhmsAdhty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhmsAdhty&layout=compact&theme=radical)
-
----
