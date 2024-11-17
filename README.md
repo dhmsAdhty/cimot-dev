@@ -1,6 +1,6 @@
 # Hi there, I'm [@dhmsAdhty](https://github.com/dhmsAdhty) 👋
 
-### I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
+I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
 
 ---
 
@@ -24,6 +24,5 @@ I absolutely **love experimenting with new technologies**, whether it’s a new 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhmsAdhty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhmsAdhty&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dhmsAdhty&theme=radical)
 
 ---
