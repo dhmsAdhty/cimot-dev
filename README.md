@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhmsAdhty)
+
 - 👋 Hi, I’m @dhmsAdhty
 - 👀 I’m interested in **web development and UI/UX design**
 - 😄 Pronouns: **he/him**
