@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cimot-dev
-- 👀 I’m interested in **web development**
-- 🌱 I’m currently learning **Laravel**, **Vue.js**
-- 📫 How to reach me: Instagram [@masdhimmm](https://www.instagram.com/masdhimmm)
+- 👀 I’m interested in **web development and UI/UX design**
+- 🌱 I’m currently learning **Laravel**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I love experimenting with new technologies and building cool projects!**
 
