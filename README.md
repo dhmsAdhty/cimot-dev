@@ -3,7 +3,6 @@ I'm a passionate **Web Developer** and **UI/UX Designer** 🎨
 ### 🔍 About Me
 
 - **🔭 Currently learning**: New web technologies and enhancing my **UI/UX design** skills.
-- **🌱 I’m working on**: Building responsive, user-friendly websites and experimenting with **Laravel**, and **Figma**.
 - **👀 My main interest**: Crafting beautiful, intuitive designs and improving user experiences.
 - **📫 Reach me at**: [crowlt44@gmail.com](mailto:crowlt44@proton.me)
 - **😄 Pronouns**: **he/him**
